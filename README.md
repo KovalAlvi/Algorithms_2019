@@ -1,11 +1,16 @@
 # Algorithms_2019
-Course of Non-numerical algorithms on Faculty of Physics  
+### Course of Non-numerical algorithms on Faculty of Physics 
 
-Coded by: Kovalev Alexander  
-Department:  MSU, Physics Faculty, Mathematical Modelling and Computer Sciencegr(MMCS), gr. 435 
 
-Mathematical modelling and computer science department
+Written by : Kovalev Alexander  
+Department:  Lomonosov MSU, Physics Faculty, Mathematical Modelling and Computer Science(MMCS) 
+
+
+ 
+Lecturer: Alex Ivanov
 Fall 2019
+
+Programms:
 
 1) Compare string-matching algorithms. KMP  vs Rabin–Karp for chinese language
 2) Heap sort vs Selection sort
