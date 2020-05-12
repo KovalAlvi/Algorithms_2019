@@ -19,6 +19,3 @@ Programms:
 5) Binary Search Tree(BST) vs Skip List (as frequency dictionary)
 6) Hash functions
 
-
-4) #### Programm. Tower of Hanoi
-
